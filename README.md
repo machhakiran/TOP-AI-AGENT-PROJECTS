@@ -17,6 +17,8 @@ A curated, comprehensive collection of 500+ AI agent use cases and real-world pr
 ## <font color="#d12ae3">📋 Table of Contents</font>
 
 - [Introduction](#introduction)
+- [Trending Open Source Agent Projects](#-trending-open-source-agent-projects)
+- [Top Industry-Specific Agentic Projects](#-top-industry-specific-agentic-projects)
 - [Industry Usecase](#-industry-usecase-mindmap)
 - [Use Case Table](#use-case-table)
 - [Framework Wise UseCase](#framework-wise-usecases)
@@ -40,6 +42,46 @@ Artificial Intelligence (AI) agents are no longer just concepts—they are activ
 - **📦 Multi-Framework Support**: Projects built on CrewAI, AutoGen, Agno, and LangGraph.
 
 Whether you're looking for inspiration for your next project or a ready-to-use template, this repository is your definitive resource for AI agent development.
+
+---
+
+
+
+## <font color="#ff9600">🔥 Trending Open Source Agent Projects</font>
+
+| Project Name | Industry / Category | Description | GitHub Repository |
+| :--- | :--- | :--- | :--- |
+| **Agent Zero** | 🧠 AI Operating System | Personal and organic AI framework that controls computers, writes code, and uses generic tools. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/agent0ai/agent-zero) |
+| **Open Lovable** | 💻 Web Development | Open source alternative to Lovable.dev; builds full-stack apps from natural language. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/firecrawl/open-lovable) |
+| **OpenHands** | 🧑‍💻 Software Engineer | Formerly OpenDevin. An autonomous AI software engineer capable of complex coding tasks. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/All-Hands-AI/OpenHands) |
+| **MetaGPT** | 🤝 Multi-Agent Dev Team | Assigns roles like Product Manager, Architect, and Engineer to AI agents to build software. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/geekan/MetaGPT) |
+| **AutoGPT** | 🤖 Autonomous Agent | Experimental open-source attempt to make GPT-4 fully autonomous. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Significant-Gravitas/AutoGPT) |
+| **ChatDev** | 🏭 Virtual Software Company | Communicative agents (CEO, CTO, Programmer) collaborating to develop software. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/OpenBMB/ChatDev) |
+| **GPT Researcher** | 🔍 Research Assistant | Autonomous agent for comprehensive online research and report generation. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/assafelovic/gpt-researcher) |
+| **SuperAGI** | ⚙️ Agent Framework | Open-source autonomous AI agent framework for building and running useful agents. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/TransformerOptimus/SuperAGI) |
+| **Open Interpreter** | 💻 Terminal Interface | Lets LLMs run code (Python, Javascript, Shell) locally on your computer. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/OpenInterpreter/open-interpreter) |
+| **Dify** | 🛠️ LLM App Development | Open-source LLM app development platform with Agent-as-a-Service capabilities. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/langgenius/dify) |
+| **BabyAGI** | 👶 Task Management | Simple framework for managing tasks using AI agents. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/yoheinakajima/babyagi) |
+| **MemGPT** | 🧠 Long-term Memory | Teaches LLMs to manage their own memory for indefinite context windows. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/cpacker/MemGPT) |
+
+---
+
+## <font color="#ff9600">🚀 Top Industry-Specific Agentic Projects</font>
+
+| Project Name | Industry | Description | GitHub Repository |
+| :--- | :--- | :--- | :--- |
+| **FinRobot** | 💰 Finance | AI agent platform for financial analysis, report generation, and risk assessment using LLMs. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/AI4Finance-Foundation/FinRobot) |
+| **OpenBB** | 💰 Finance | Open-source investment research software platform helping researchers and analysts access financial data. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/OpenBB-finance/OpenBB) |
+| **BioMistral** | 🏥 Healthcare | Specialized LLM for medical domains, adapted for biomedical text and clinical data. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/BioMistral/BioMistral) |
+| **HealthcareAgent** | 🏥 Healthcare | Python package providing API interfaces for developing healthcare-related AI agents and clinical tools. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/AI-Hub-Admin/HealthcareAgent) |
+| **Wazuh** | 🛡️ Cybersecurity | Unified XDR and SIEM platform for threat detection and incident response with agent-based architecture. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/wazuh/wazuh) |
+| **Cybersecurity AI** | 🛡️ Cybersecurity | Framework for building offensive and defensive AI agents for security assessment and automation. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Claudio-Merloni/cybersecurity-ai) |
+| **Aider** | 💻 Coding | AI pair programmer in your terminal that allows you to edit code in your local git repo. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/paul-gauthier/aider) |
+| **Goose** | 💻 Coding | Open-source AI agent that automates software development tasks like coding, debugging, and testing. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/block/goose) |
+| **Tabby** | 💻 Coding | Self-hosted AI coding assistant, an open-source alternative to GitHub Copilot. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/TabbyML/tabby) |
+| **Sweep** | 💻 Coding | AI junior developer that turns bug reports and feature requests into code changes. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/sweepai/sweep) |
+| **PentestGPT** | 🛡️ Cybersecurity | A GMPT-empowered penetration testing tool that operates as an automated security agent. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/GreyDGL/PentestGPT) |
+| **Mentat** | 💻 Coding | The AI coding assistant that coordinates edits across your entire codebase. | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/AbanteAI/mentat) |
 
 ---
 
@@ -75,6 +117,8 @@ Whether you're looking for inspiration for your next project or a ready-to-use t
 | **Vibe Hacking Agent**                | Cybersecurity    | Autonomous Multi-Agent Based Red Team Testing Service.   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/PurpleAILAB/Decepticon) |
 | **MediSuite-Ai-Agent**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         | 
 | **Lina-Egyptian-Medical-Chatbot**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         |
+
+
 
 ## <font color="#ff9600">🛠️ Framework-Specific Use Cases</font>
 
