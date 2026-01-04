@@ -1,16 +1,16 @@
-# Contributing to 500-AI-Agents-Projects
+# <font color="#009eff">Contributing to TOP-AI-AGENT-PROJECTS</font>
 
-Welcome — this repository collects 500 AI agent projects, templates, demos, and integrations. Thank you for helping grow a practical, reproducible, and responsible catalog of agent work. This document is tuned to the AI-agent focus of the project: reproducibility, model/data hygiene, evaluation, and safety.
+Welcome — this repository collects TOP AI agent projects, templates, demos, and integrations. Thank you for helping grow a practical, reproducible, and responsible catalog of agent work. This document is tuned to the AI-agent focus of the project: reproducibility, model/data hygiene, evaluation, and safety.
 
-Quick summary
-- Add small, runnable, well-documented agent examples and templates.
-- Prefer reproducible demos and small checkpoints or external download scripts.
-- Follow the folder schema and metadata so projects are discoverable and automatable.
-- Pay attention to license, data provenance, and ethical/safety notes.
+Quick Summary
+- **Focus**: runnable, well-documented agent examples and templates.
+- **Reproducibility**: All demos should be easily reproducible with minimal setup.
+- **Structure**: Follow our folder schema and metadata for better discoverability.
+- **Safety**: Adhere to ethical AI practices and data hygiene.
 
 ---
 
-## What to contribute
+## <font color="#d12ae3">What to contribute</font>
 - New agent projects (single- or multi-agent; code, notebooks, or demos).
 - Templates/boilerplates for agent types (reactive, planning-based, learning agents, RL, LLM-based, etc.).
 - Integrations (environments, simulators, observability / logging tools).
@@ -21,7 +21,7 @@ If your contribution is large (new category, many projects, major refactor) plea
 
 ---
 
-## Project folder requirements (must-have)
+## <font color="#ff9600">Project folder requirements (must-have)</font>
 Each agent project added must include the following at the top level of its folder:
 
 - README.md — concise description, intended use-case, quick start with exact commands, expected output, and runtime (CPU/GPU/time).
@@ -52,7 +52,7 @@ requirements: requirements.txt
 
 ---
 
-## Naming & layout conventions
+## <font color="#009eff">Naming & layout conventions</font>
 - Folder names: lowercase, hyphen-separated (e.g., multi-agent-pursuit).
 - Place one logical project per folder.
 - Keep demos and notebooks near the code: demo.ipynb and run_demo.py in the project root.
@@ -98,13 +98,16 @@ requirements: requirements.txt
 
 ---
 
-## PR process and checklist
-Before opening a PR:
-- [ ] Fork and create a branch: feat/<short-desc> or fix/<short-desc>
-- [ ] Update README and metadata
-- [ ] Include tests or a smoke-test demonstration
-- [ ] Ensure no secrets or private data are included
-- [ ] Confirm license compatibility for added assets
+## <font color="#d12ae3">🚀 PR Process and Checklist</font>
+
+Before opening a Pull Request, please ensure you've checked the following:
+
+- [ ] **Fork & Branch**: Fork the repo and create a branch like `feat/new-agent-name`.
+- [ ] **Folder Structure**: Ensure your project is in its own folder with a `README.md` and `metadata.json`.
+- [ ] **Dependencies**: Include a `requirements.txt` or `pyproject.toml`.
+- [ ] **Reproducibility**: Provide a clear "How to Run" section with expected outputs.
+- [ ] **Safety & Secrets**: Ensure no API keys or private data are committed.
+- [ ] **License**: All contributions must be compatible with the MIT license.
 
 PR description should include:
 - What changed and why
@@ -167,8 +170,4 @@ By contributing, you agree to the project's Code of Conduct. Be respectful, cons
 
 ---
 
-<<<<<<< HEAD
-Thank you for contributing to 500-AI-Agents-Projects — your examples, templates, and tools make the agent community stronger and more reproducible.
-=======
-Thank you for contributing to 500-AI-Agents-Projects — your examples, templates, and tools make the agent community stronger and more reproducible.
->>>>>>> f5a092190b226a6723718d7680aa689f1d2b64bc
+Thank you for contributing to TOP-AI-AGENT-PROJECTS — your examples, templates, and tools make the agent community stronger and more reproducible.

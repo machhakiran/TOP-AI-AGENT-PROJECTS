@@ -1,12 +1,12 @@
-# CrewAI with FastMCP Server Integration Course
+# <font color="#009eff">CrewAI with FastMCP Server Integration Course</font>
 
 This course teaches beginners how to use CrewAI with FastMCP server access through step-by-step programming examples.
 
-## Course Overview
+## <font color="#d12ae3">Course Overview</font>
 
 This course is designed for beginner developers with basic Python knowledge who want to learn how to integrate CrewAI agents with FastMCP servers. The course covers fundamental concepts, practical implementation, and advanced patterns for building intelligent agent workflows.
 
-## Lessons
+## <font color="#ff9600">Lessons</font>
 
 ### Lesson 1: Setting up CrewAI with MCP Server Access
 - Install required packages
@@ -52,7 +52,7 @@ graph TD
     C -->|Final Report| E[Output]
 ```
 
-## Getting Started
+## <font color="#009eff">Getting Started</font>
 
 ### Using pip (traditional method)
 
